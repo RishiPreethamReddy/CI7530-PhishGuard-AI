@@ -1,0 +1,9 @@
+Add your screenshots in this folder.
+
+Required screenshots:
+1. GitHub repository page
+2. Streamlit homepage
+3. Low-risk email result
+4. Medium-risk email result
+5. High-risk phishing email result
+6. Repository file structure

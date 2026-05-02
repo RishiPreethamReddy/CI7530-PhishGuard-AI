@@ -1,0 +1,8 @@
+Dear user,
+
+Your account will be suspended today unless you verify your password immediately.
+Click the link below to confirm your login details:
+
+http://secure-account-verification-login.com
+
+Failure to act now will result in permanent account closure.

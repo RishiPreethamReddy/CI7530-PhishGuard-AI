@@ -1,0 +1,7 @@
+Dear customer,
+
+We noticed unusual activity on your account. Please review your account using the link below within 24 hours.
+
+http://secure-review-login.example.com
+
+Thank you.
